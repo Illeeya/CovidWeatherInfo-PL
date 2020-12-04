@@ -14,7 +14,7 @@ Weather API
 https://danepubliczne.imgw.pl/api/data/synop  
   
 Covid API  
-coronavirus-19-api.herokuapp.com  
+https://coronavirus-19-api.herokuapp.com  
   
 Population  
 http://api.worldbank.org
